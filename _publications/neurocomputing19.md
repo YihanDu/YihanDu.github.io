@@ -1,7 +1,7 @@
 ---
 title: "Object-adaptive LSTM network for real-time visual tracking with adversarial data augmentation"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/neurocomputing19
 excerpt: ''
 date: 2019-10-01
 venue: 'Neurocomputing'
