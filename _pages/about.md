@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/), at [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/), Tsinghua University, headed by Prof. Andrew Yao. My research interests include online learning and computer vision.
+I am currently a master student advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/), at the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/) of Tsinghua University, headed by Prof. Andrew Yao.  Previously, I was a reserach intern at the Theory Group of Microsoft Research Asia, advised by [Prof. Wei Chen] (https://www.microsoft.com/en-us/research/people/weic/). My research interest focuses on online learning.
 
-See my [resume here](https://yihandu.github.io/files/resume.pdf).
+See my [CV](https://yihandu.github.io/files/resume.pdf) here.
