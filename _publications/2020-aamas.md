@@ -8,5 +8,6 @@ venue: 'Proceedings of the 19th International Conference on Autonomous Agents an
 ---
 
 [Download paper here](https://yihandu.github.io/files/AAMAS20_dueling.pdf)
+
 [Download supplementary material here](https://yihandu.github.io/files/AAMAS20_dueling_supp.pdf)
 
