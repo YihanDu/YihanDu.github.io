@@ -7,7 +7,7 @@
     <description>Yihan Du</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://YihanDu.github.io/media/icon_hue6d2610118ac2d7c74b6c021e3708d96_185083_512x512_fill_lanczos_center_3.png</url>
+      <url>https://YihanDu.github.io/media/icon_hu89e1bd7e0c6b67b0fa05e4631380a968_7127_512x512_fill_lanczos_center_3.png</url>
       <title>Yihan Du</title>
       <link>https://YihanDu.github.io/</link>
     </image>
@@ -196,7 +196,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-182763549&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-482179653&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -206,7 +206,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-182763549&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-482179653&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
